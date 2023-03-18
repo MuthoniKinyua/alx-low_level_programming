@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * maon - Entry point
+ * main - Entry point
  *
  * Return: always (0)
  */
