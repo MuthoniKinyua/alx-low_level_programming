@@ -24,7 +24,7 @@ int main(void)
 						putchar(j);
 						
 						putchar(k);
-						if
+if
 							(i != '7')
 							{
 								putchar(',');
@@ -33,7 +33,6 @@ int main(void)
 					}
 			}
 		}
-	}
 	}
 	putchar('\n');
 	return (0);
